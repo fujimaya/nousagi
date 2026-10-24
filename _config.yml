@@ -3,8 +3,8 @@ description: "技術のこと、学んだこと、日々の記録。"
 lang: ja
 timezone: Asia/Tokyo
 # username.github.io のリポジトリなら空文字。通常のリポジトリなら /リポジトリ名
-baseurl: "https://fujimaya.github.io"
-url: "/nousagi"
+baseurl: "/nousagi"
+url: "https://fujimaya.github.io"
 markdown: kramdown
 highlighter: rouge
 permalink: /posts/:title/
