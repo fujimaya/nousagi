@@ -169,7 +169,8 @@ h1{
     font-size:23px;
     margin:48px 0 20px;
     border-bottom:1px solid var(--line);
-    padding-bottom:12px
+    padding-bottom:12px;
+    padding-top: 20px;
 }
 .prose h3{
     font-size:18px;
