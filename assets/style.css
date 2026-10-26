@@ -79,6 +79,7 @@ h1{
     font-size:clamp(28px,5vw,44px);
     letter-spacing:.02em;
     margin-top: 2em;
+    border-bottom: 1px solid #b0b0b0;
 }
 .hero p:last-child,.lead{
     color:var(--muted)
@@ -171,6 +172,7 @@ h1{
     border-bottom:1px solid var(--line);
     padding-bottom:12px;
     padding-top: 20px;
+    width: 90%;
 }
 .prose h3{
     font-size:18px;
