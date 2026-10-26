@@ -156,7 +156,6 @@ h1{
 }
 .article-head{
     padding:35px 0 30px;
-    border-bottom:1px solid var(--line);
     margin-bottom:35px
 }
 .article-head h1{
